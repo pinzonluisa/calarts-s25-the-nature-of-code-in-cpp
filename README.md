@@ -1,6 +1,6 @@
 # The Nature of Code in C++
 
-**California Institute of the Arts (CalArts) | Spring 2025**  
+**California Institute of the Arts (CalArts) | Spring 2026**  
 **Instructor:** Luisa Pinzon  
 **Program:** Music Technology & Creative Computing
 
